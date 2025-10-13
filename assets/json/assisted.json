@@ -4,7 +4,7 @@
        "version": "1.8.8-v3.0.5b",
        "icon": "./assets/images/icons/dogos-mobile.png",
        "link": "./mc/mc/1.8.8/?userscript=flameddogo99-eaglermobile.js",
-       "active": true
+       "active": false
     },
     {
        "title": "Red's Mobile UI",
