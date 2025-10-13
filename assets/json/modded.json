@@ -1,16 +1,16 @@
 [
     {
-       "title": "Astra Client",
-       "version": "1.8.8-v1.5",
-       "icon": "./assets/images/icons/astra-client.png",
-       "link": "./mc/astraclient/",
-       "active": true
-    },
-    {
        "title": "Eaglerforge",
        "version": "1.8.8-v1.3.2",
        "icon": "./assets/images/icons/eaglerforge.png",
        "link": "./mc/eaglerforge/",
+       "active": true
+    },
+    {
+       "title": "Astra Client",
+       "version": "1.8.8-v1.5",
+       "icon": "./assets/images/icons/astra-client.png",
+       "link": "./mc/astraclient/",
        "active": true
     },
     {
