@@ -171,6 +171,14 @@ hr {
     transition: 0.3s;
 }
 
+.nothing {
+    padding: 0vw 0vw;
+    color: var(--text-secondary);
+    font-size: 0vw;
+    line-height: 1.7vw;
+    transition: 0.3s;
+}
+
 .headerButtons:hover {
     cursor: pointer;
     color: white
