@@ -173,9 +173,9 @@ hr {
 
 .nothing {
     padding: 0vw 0vw;
-    color: var(--text-secondary);
+    color: rgba(0,0,0,0.5);
     font-size: 0vw;
-    line-height: 1.7vw;
+    line-height: 0vw;
     transition: 0.3s;
 }
 
