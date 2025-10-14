@@ -3,8 +3,8 @@
         "title": "Site Update: Eagler Launcher fork",
         "version": "v1.4.10",
         "description": "The creation of Eagler Launcher",
-        "date": "Tuesday, August 5th, 2025",
-        "icon": "mod-icons/grappling-gun.png",
+        "date": "October 14th, 2025",
+        "icon": "images/logo.png",
         "type": "site",
         "notes": [
             "Forked eagler Launcher from Ampler launcher",
@@ -16,7 +16,7 @@
         "title": "Site Update: Modded",
         "version": "v1.4.00",
         "description": "Added news, bug fixes, and integrated mods!",
-        "date": "Tuesday, August 5th, 2025",
+        "date": "August 5th, 2025",
         "icon": "mod-icons/grappling-gun.png",
         "type": "site",
         "notes": [
@@ -107,7 +107,7 @@
         "version": "v1.0.00",
         "description": "this was when the orignal ampler launcher was released. eagler launcher is a fork of ampler launcher.",
         "date": "Saturday, July 17th, 2024",
-        "icon": "logo.png",
+        "icon": "logo_old.png",
         "type": "site",
         "notes": []
     }
