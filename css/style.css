@@ -266,7 +266,7 @@ hr {
     top: 0;
     bottom: 0;
     right: 3vw;
-    font-size: 1.35vw;
+    font-size: 0vw;
 }
 
 @keyframes drop {
