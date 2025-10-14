@@ -1,4 +1,4 @@
-# <img src=".github/assets/logo.png" align="right" width="150px"> Eagler Launcher v1.4.00
+# <img src=".github/assets/logo.png" align="right" width="150px"> Eagler Launcher v1.4.10
  A minecraft themed launcher for Eaglercraft!<br>
  Containing some of the best clients all in one place!
 
@@ -28,7 +28,7 @@
 <summary>Click here to expand feature list</summary>
 
 - [ ] Add the servers screen
-- [ ] Add Credits screen
+- [x] Add Credits screen
 - [ ] Add Settings screen
 - [x] Rewrite some of the css and js
 - [x] Organize code, and add comments
