@@ -243,7 +243,7 @@ function generatenotes() {
     fetch("./assets/json/patchnotes.json").then((response) => response.json()).then((data) => {
         data.forEach((note) => {
             const patchnote = document.createElement("div");
-            patchnote.className = "patchnote";
+            patchnote.className = "news";
             patchnote.setAttribute('data-note-type', note.type);
             patchnote.addEventListener("click", () => {
                 const notescreenheader = document.createElement("div");
