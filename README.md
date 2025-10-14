@@ -8,6 +8,7 @@
 <hr>
 
  ## Versions
+ __v1.4.10__ - Creation of Eagler launcher, removed a not working version of eaglercraft, renamed some things and added credits<br>
  __v1.4.00__ - Added News, bug fixes, and integrated mods!<br>
  __v1.3.10__ - Organized and updated code, added memory options, more games, installations, usernames, and faq screen!<br>
  __v1.2.00__ - Updated games.<br>
