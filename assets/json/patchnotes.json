@@ -2,13 +2,13 @@
     {
         "title": "Site Update: Modded",
         "version": "v1.4.00",
-        "description": "Added patch notes, bug fixes, and integrated mods!",
+        "description": "Added news, bug fixes, and integrated mods!",
         "date": "Tuesday, August 5th, 2025",
         "icon": "mod-icons/grappling-gun.png",
         "type": "site",
         "notes": [
             "Added the mod screen, which allows users to select mods, and it'll be added to their eaglerforge launcher. Will override mods added in by user inside of launcher.",
-            "Added the patch notes screen, it displays recent updates to the website, and launcher builds.",
+            "Added the news screen, it displays recent updates to the website, and launcher builds.",
             "Fixed a bug of unable to scroll with to many launchers selected.",
             "Fixed sizing bugs of website."
         ]
@@ -32,8 +32,8 @@
     {
         "title": "Eaglercraft 1.12",
         "version": "u2",
-        "description": "Come back soon for full log!",
-        "date": "Unknown",
+        "description": "Eaglercraft 1.12 is released by PeytonPlayz585",
+        "date": "March 10 2025",
         "icon": "icons/eaglercraft.png",
         "type": "game",
         "notes": []
@@ -41,8 +41,8 @@
     {
         "title": "Eaglercraft 1.8.8",
         "version": "u51",
-        "description": "Come back soon for full log!",
-        "date": "Unknown",
+        "description": "Eaglercraft 1.8.8 is released by lax1dude and aayunami2000",
+        "date": "December 2022",
         "icon": "icons/eaglercraft.png",
         "type": "game",
         "notes": []
@@ -50,7 +50,7 @@
     {
         "title": "Site Update: W.A.S.M.",
         "version": "v1.2.00",
-        "description": "Come back soon for full log!",
+        "description": "added the Webassembly GC editions of eaglercraft",
         "date": "Tuesday, April 1st, 2025",
         "icon": "mc-icons/grass-wasm.png",
         "type": "site",
@@ -68,7 +68,7 @@
     {
         "title": "Site Roadmap",
         "version": "v1.4.00",
-        "description": "Current progress on the future of Ampler Launcher!",
+        "description": "Current progress on the future of Eagler Launcher!",
         "date": "Tuesday, August 5th, 2025",
         "icon": "icons/roadmap.png",
         "type": "site",
@@ -84,7 +84,7 @@
             "✔ Add Installations screen",
             "✔ Add Mods screen",
             "✘ Add Skins screen",
-            "✔ Add Patch Notes screen",
+            "✔ Add news screen",
             "✘ Fix display errors",
             "✘ Offline launcher download?"
         ]
@@ -92,7 +92,7 @@
     {
         "title": "Ampler Launcher Release",
         "version": "v1.0.00",
-        "description": "Come back soon for full log!",
+        "description": "this was when the orignal ampler launcher was released. eagler launcher is a fork of ampler launcher.",
         "date": "Saturday, July 17th, 2024",
         "icon": "logo.png",
         "type": "site",
