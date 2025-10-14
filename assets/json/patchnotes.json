@@ -1,5 +1,18 @@
 [
     {
+        "title": "Site Update: Eagler Launcher fork",
+        "version": "v1.4.10",
+        "description": "The creation of Eagler Launcher",
+        "date": "Tuesday, August 5th, 2025",
+        "icon": "mod-icons/grappling-gun.png",
+        "type": "site",
+        "notes": [
+            "Forked eagler Launcher from Ampler launcher",
+            "Renamed some stuff",
+            "Removed a not working version of eaglercraft",
+        ]
+    },
+    {
         "title": "Site Update: Modded",
         "version": "v1.4.00",
         "description": "Added news, bug fixes, and integrated mods!",
