@@ -363,6 +363,9 @@ function news(){
     resetTabSelected();
     resetHeaderSelected();
     generatenotes();
+    document.getElementById('header6').style.display('none');
+    document.getElementById('gtabs1').classList.add('selected');
+    
 }
 
 // Header Options
