@@ -366,7 +366,7 @@ function news(){
     const newsstring = JSON.parse('/assets/json/news.json')
     document.getElementById('header6').style.display('none');
     document.getElementById('gtabs1').classList.add('selected');
-    document.getElementById('bolded faqtitle').innerHTML = newsstring[0];    
+    document.getElementByClass('bolded faqtitle').innerHTML = newsstring[0] + "<br>" + newssting[1] + "<br>" + newsstring[2] + "<br>" + newsstring[3];    
     
     
 }
