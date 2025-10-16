@@ -363,10 +363,10 @@ function news(){
     resetTabSelected();
     resetHeaderSelected();
     generatenotes();
-    const newsjson = JSON.parse('/assets/json/news.json')
+    const newsstring = JSON.parse('/assets/json/news.json')
     document.getElementById('header6').style.display('none');
     document.getElementById('gtabs1').classList.add('selected');
-    document.getElementById('bolded faqtitle').innerHTML = newsjson[0];    
+    document.getElementById('bolded faqtitle').innerHTML = newsstring[0];    
     
     
 }
