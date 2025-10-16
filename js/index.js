@@ -358,6 +358,11 @@ function eaglercontrols(){
     document.getElementById('gtabs4').classList.add('selected');
 }
 
+//News
+function news(){
+    patchnotesheader()
+}
+
 // Header Options
 function playheader(){
     resetHeaderSelected();
