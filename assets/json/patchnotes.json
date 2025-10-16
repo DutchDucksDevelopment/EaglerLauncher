@@ -2,7 +2,7 @@
     {
         "title": "Site Update: Modded",
         "version": "v1.4.00",
-        "description": "Added news, bug fixes, and integrated mods!",
+        "description": "Added patch notes, bug fixes, and integrated mods!",
         "date": "August 5th, 2025",
         "icon": "mod-icons/grappling-gun.png",
         "type": "site",
@@ -16,15 +16,13 @@
     {
         "title": "Site Update: Memorized",
         "version": "v1.3.10",
-        "description": "Organized/updated code, added memory options, more games, installations, usernames, and faq screen!",
+        "description": "Organized/updated code, added memory options, more games and installations!",
         "date": "Monday, May 28th, 2025",
         "icon": "mc-icons/red-bed.png",
         "type": "site",
         "notes": [
             "Implemented memory for options selected inside of launcher.",
             "Added wider range of game versions.",
-            "Added usernames into launcher.",
-            "Added FAQ screen, answering common easy questions.",
             "Removed bulk code for sleeker function/look.",
             "Organize structure of project for future growth."
         ]
@@ -84,7 +82,7 @@
             "✔ Add Installations screen",
             "✔ Add Mods screen",
             "✘ Add Skins screen",
-            "✔ Add news screen",
+            "✔ Add Patch notes screen",
             "✘ Fix display errors",
             "✘ Offline launcher download?"
         ]
