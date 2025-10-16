@@ -358,13 +358,16 @@ function eaglercontrols(){
     document.getElementById('gtabs4').classList.add('selected');
 }
 
-//News
+//News 0=title 1=description 2=date 3=icon
 function news(){
     resetTabSelected();
     resetHeaderSelected();
     generatenotes();
+    const newsjson = JSON.parse('/assets/json/news.json')
     document.getElementById('header6').style.display('none');
     document.getElementById('gtabs1').classList.add('selected');
+    document.getElementById('bolded faqtitle').innerHTML = newsjson[0];    
+    
     
 }
 
