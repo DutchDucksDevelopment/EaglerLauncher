@@ -360,7 +360,9 @@ function eaglercontrols(){
 
 //News
 function news(){
-    patchnotesheader()
+    resetTabSelected();
+    resetHeaderSelected();
+    generatenotes();
 }
 
 // Header Options
