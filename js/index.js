@@ -360,14 +360,13 @@ function eaglercontrols(){
 
 //News
 function news(){
-    generateprofile(1);
     resetTabSelected();
     resetHeaderSelected();
     const newsstring = "./assets/json/news.txt"
     document.getElementById('gtabs1').classList.add('selected');
-    document.getElementByClassName('News0').innerHTML = newsstring[0]
-    document.getElementByClassName('News1').innerHTML = newsstring[1]
-    document.getElementByClassName('News2').innerHTML = newsstring[2]
+    document.getElementById('News0').innerHTML = newsstring[0]
+    document.getElementById('News1').innerHTML = newsstring[1]
+    document.getElementById('News2').innerHTML = newsstring[2]
     
 }
 
