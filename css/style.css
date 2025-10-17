@@ -269,6 +269,20 @@ hr {
     transform: scale(1.05);
 }
 
+.Newstitle {
+    font-size: 2.3vw;
+    padding-top: 3vh;
+}
+
+.Newsdate {
+    font-size: 0.7vw;
+    padding-top: 4vh;
+}
+
+.Newsdescription {
+    font-size: 1.5vw;
+    padding-top: 6vh;
+    
 .username {
     position: absolute;
     top: 0;
