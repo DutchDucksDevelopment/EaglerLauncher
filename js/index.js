@@ -368,7 +368,6 @@ function news(){
     document.getElementByClass('Newstitle').innerHTML = newsstring[0]
     document.getElementByClass('Newsdescription').innerHTML = newsstring[1]
     document.getElementByClass('Newsdate').innerHTML = newsstring[2]
-    document.getElementByClass('Newsimage').src = newsstring[3]
     
 }
 
