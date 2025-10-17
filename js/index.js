@@ -364,10 +364,11 @@ function news(){
     resetTabSelected();
     resetHeaderSelected();
     const newsstring = "./assets/json/news.txt"
-    document.getElementById('header6').style.display('none');
     document.getElementById('gtabs1').classList.add('selected');
-    document.getElementByClass('bolded faqtitle').innerHTML = newsstring[0] + "<br>" + newssting[1] + "<br>" + newsstring[2] + "<br>" + newsstring[3];    
-    
+    document.getElementByClass('Newstitle').innerHTML = newsstring[0]
+    document.getElementByClass('Newsdescription').innerHTML = newsstring[1]
+    document.getElementByClass('Newsdate').innerHTML = newsstring[2]
+    document.getElementByClass('Newsimage').src = newsstring[3]
     
 }
 
