@@ -365,9 +365,9 @@ function news(){
     resetHeaderSelected();
     const newsstring = "./assets/json/news.txt"
     document.getElementById('gtabs1').classList.add('selected');
-    document.getElementByClass('Newstitle').innerHTML = newsstring[0]
-    document.getElementByClass('Newsdescription').innerHTML = newsstring[1]
-    document.getElementByClass('Newsdate').innerHTML = newsstring[2]
+    document.getElementByClassName('Newstitle').innerHTML = newsstring[0]
+    document.getElementByClassName('Newsdescription').innerHTML = newsstring[1]
+    document.getElementByClassName('Newsdate').innerHTML = newsstring[2]
     
 }
 
