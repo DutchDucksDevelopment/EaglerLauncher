@@ -357,17 +357,6 @@ function eaglercontrols(){
     document.getElementById('header5').style.display = 'none';
     document.getElementById('gtabs4').classList.add('selected');
 }
-
-//News
-function news(){
-    resetTabSelected();
-    resetHeaderSelected();
-    const newsstring = "./assets/json/news.txt"
-    document.getElementById('gtabs1').classList.add('selected');
-    document.getElementById('gameedition').innerHTML = 'NEWS';
-    document.getElementById('News0').innerHTML = newsstring[0]
-    document.getElementById('News1').innerHTML = newsstring[1]
-    document.getElementById('News2').innerHTML = newsstring[2]
     
 }
 
