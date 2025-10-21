@@ -357,8 +357,6 @@ function eaglercontrols(){
     document.getElementById('header5').style.display = 'none';
     document.getElementById('gtabs4').classList.add('selected');
 }
-    
-}
 
 // Header Options
 function playheader(){
