@@ -1,4 +1,18 @@
 [
+        {
+        "title": "Site Update: Eagler Launcher",
+        "version": "v1.4.10",
+        "description": "Added credits, removed unused features and unstable versions and updated some code",
+        "date": "October 10th, 2025",
+        "icon": "logo.png",
+        "type": "site",
+        "notes": [
+            "Removed Flamedogo's mobile ui because it did not work",
+            "Added credits",
+            "Removed unused features",
+            "Cleared up some code"
+        ]
+    },
     {
         "title": "Site Update: Modded",
         "version": "v1.4.00",
@@ -62,30 +76,6 @@
         "icon": "mc-icons/skull.png",
         "type": "site",
         "notes": []
-    },
-    {
-        "title": "Site Roadmap",
-        "version": "v1.4.00",
-        "description": "Current progress on the future of Eagler Launcher!",
-        "date": "Tuesday, August 5th, 2025",
-        "icon": "icons/roadmap.png",
-        "type": "site",
-        "notes": [
-            "✘ Add the servers screen",
-            "✘ Add Credits screen",
-            "✘ Add Settings screen",
-            "✔ Rewrite some of the css and js",
-            "✔ Organize code, and add comments",
-            "✘ Add a customizable launcher selector",
-            "✔ Save last played game",
-            "✔ Add FAQ screen",
-            "✔ Add Installations screen",
-            "✔ Add Mods screen",
-            "✘ Add Skins screen",
-            "✔ Add Patch notes screen",
-            "✘ Fix display errors",
-            "✘ Offline launcher download?"
-        ]
     },
     {
         "title": "Ampler Launcher Release",
