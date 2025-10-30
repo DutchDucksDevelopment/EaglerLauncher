@@ -54,5 +54,9 @@ Dutch Ducks Development:
 - removed unstable/not working features
 - added these credits! (:
 
+TheCreationKing:
+- made the skin editor
+
+
 
 <hr>
