@@ -1,9 +1,15 @@
 ## irv77:
+
 - made the gui for Ampler Launcher, which Eagler Launcher is a fork of
 - made the eaglercraft itself work in Ampler Launcher
 
-## Dutch Ducks Development
+## Dutch Ducks Development:
+
 - forked Ampler Launcher into Eagler Launcher
 - removed unstable/not working features
 - added Kone client
 - added the credits! (:
+
+## TheCreationKing:
+
+- made the skin editor
