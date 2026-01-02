@@ -10,6 +10,7 @@
             "Added TheCreationKing's skin editor",
             "Added Kone client",
             "Made some small optimizations",
+            "Changed the logo",
             "Removed herobrine"
         ]
     },
@@ -18,7 +19,7 @@
         "version": "v1.4.1",
         "description": "Added credits, removed unused features and unstable versions and updated some code",
         "date": "October 10th, 2025",
-        "icon": "logo.png",
+        "icon": "logo_creeper.png",
         "type": "site",
         "notes": [
             "Removed Flamedogo's mobile ui because it did not work",
