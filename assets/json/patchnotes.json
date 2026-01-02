@@ -1,7 +1,21 @@
 [
         {
+        "title": "Site Update: Eagler Optimizations",
+        "version": "v1.4.2",
+        "description": "Added skin editor, new client and optimized eagler launcher",
+        "date": "January 1st, 2026",
+        "icon": "logo.png",
+        "type": "site",
+        "notes": [
+            "Added TheCreationKing's skin editor",
+            "Added Kone client",
+            "Made some small optimizations",
+            "Removed herobrine"
+        ]
+    },
+    {
         "title": "Site Update: Eagler Launcher",
-        "version": "v1.4.10",
+        "version": "v1.4.1",
         "description": "Added credits, removed unused features and unstable versions and updated some code",
         "date": "October 10th, 2025",
         "icon": "logo.png",
@@ -10,12 +24,13 @@
             "Removed Flamedogo's mobile ui because it did not work",
             "Added credits",
             "Removed unused features",
-            "Cleared up some code"
+            "Cleared up some code",
+            "Removed herobrine"
         ]
     },
     {
         "title": "Site Update: Modded",
-        "version": "v1.4.00",
+        "version": "v1.4.0",
         "description": "Added patch notes, bug fixes, and integrated mods!",
         "date": "August 5th, 2025",
         "icon": "mod-icons/grappling-gun.png",
@@ -24,12 +39,13 @@
             "Added the mod screen, which allows users to select mods, and it'll be added to their eaglerforge launcher. Will override mods added in by user inside of launcher.",
             "Added the news screen, it displays recent updates to the website, and launcher builds.",
             "Fixed a bug of unable to scroll with to many launchers selected.",
-            "Fixed sizing bugs of website."
+            "Fixed sizing bugs of website.",
+            "Removed herobrine"
         ]
     },
     {
         "title": "Site Update: Memorized",
-        "version": "v1.3.10",
+        "version": "v1.3.1",
         "description": "Organized/updated code, added memory options, more games and installations!",
         "date": "Monday, May 28th, 2025",
         "icon": "mc-icons/red-bed.png",
@@ -38,7 +54,8 @@
             "Implemented memory for options selected inside of launcher.",
             "Added wider range of game versions.",
             "Removed bulk code for sleeker function/look.",
-            "Organize structure of project for future growth."
+            "Organize structure of project for future growth.",
+            "Removed herobrine"
         ]
     },
     {
@@ -61,7 +78,7 @@
     },
     {
         "title": "Site Update: W.A.S.M.",
-        "version": "v1.2.00",
+        "version": "v1.2.0",
         "description": "added the Webassembly GC editions of eaglercraft",
         "date": "Tuesday, April 1st, 2025",
         "icon": "mc-icons/grass-wasm.png",
@@ -70,7 +87,7 @@
     },
     {
         "title": "Site Update: CYA CSS",
-        "version": "v1.1.00",
+        "version": "v1.1.0",
         "description": "Come back soon for full log!",
         "date": "Wednesday, November 13th, 2024",
         "icon": "mc-icons/skull.png",
@@ -79,7 +96,7 @@
     },
     {
         "title": "Ampler Launcher Release",
-        "version": "v1.0.00",
+        "version": "v1.0.0",
         "description": "this was when the orignal ampler launcher was released. eagler launcher is a fork of ampler launcher.",
         "date": "Saturday, July 17th, 2024",
         "icon": "logo_old.png",
