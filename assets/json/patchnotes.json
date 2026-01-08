@@ -4,7 +4,7 @@
         "version": "v1.4.3",
         "description": "Made executable apps for Linux, MacOS and Windows",
         "date": "January 8th, 2026",
-        "icon": "logo.png",
+        "icon": "./assets/images/App.png",
         "type": "site",
         "notes": [
             "Made executable apps for Linux, MacOS and Windows",
