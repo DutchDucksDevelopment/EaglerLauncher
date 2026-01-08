@@ -1,4 +1,4 @@
-# <img src=".github/assets/logo.png" align="right" width="150px"> Eagler Launcher v1.4.2
+# <img src=".github/assets/logo.png" align="right" width="150px"> Eagler Launcher v1.4.3
  A minecraft themed launcher for Eaglercraft!<br>
  Containing some of the best clients all in one place!
 
@@ -8,6 +8,7 @@
 <hr>
 
  ## Versions
+ __v1.4.3__ - Added executable apps for Linux, MacOS and Windows
  __v1.4.2__ - Added TheCreationKing's Skin editor, Added Kone client and optimized code<br>
  __v1.4.1__ - Creation of Eagler launcher, removed a not working version of eaglercraft, renamed some things and added credits<br>
  __v1.4.0__ - Added News, bug fixes, and integrated mods!<br>
