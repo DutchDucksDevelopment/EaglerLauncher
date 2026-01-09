@@ -323,6 +323,7 @@ const img = document.getElementById('game-bg');
 const imgheight = img.offsetHeight
 const imgwidth = img.offsetWidth
 function skinsheader() {
+    console.log('i exist');
     resetHeaderSelected();
     document.getElementById('faq').style.display = "flex";
     document.getElementById('header3').classList.add('selected');
