@@ -17,7 +17,7 @@
        "title": "Kone Client",
        "version": "1.8.8",
        "icon": "./assets/images/icons/kone.png",
-       "link": "https://dutchducksdevelopment.github.io/EaglerLauncher-MC-Kone/",
+       "link": "./mc/koneclient",
        "active": true
     },
     {
