@@ -16,11 +16,7 @@
     <meta content="https://DutchDucksDevelopment.github.io/EaglerLauncher/" property="og:url">
     <meta content="https://DutchDucksDevelopment.github.io/EaglerLauncher/assets/images/logo.png" property="og:image">
     <meta content="#786d81" data-react-helmet="true" name="theme-color">
-    <style>
-        #iframebox {
-            display: none;
-        }
-    </style>
+
 </head>
 
 <body>
@@ -76,7 +72,7 @@
                 <ul class="gameTabs">
                     <li id="header1" class="headerButtons selected" onclick="playheader()">Play</li>
                     <li id="header2" style="display: none;" class="headerButtons" onclick="modsheader()">Mods</li>
-                    <li id="header3" class="headerButtons" onclick=skinsheader()>Skins</li>
+                    <li id="header3" class="headerButtons" onclick=location.href='./skineditor'>Skins</li>
                     <li id="header4" class="headerButtons" onclick="installationheader()">Installations</li>
                     <li id="header5" class="nothing" onclick=location.href='./skineditor'></li>
                     <li id="header6" class="headerButtons" onclick="patchnotesheader()">Patch Notes</li>
@@ -88,16 +84,14 @@
             <div id="modsbox"></div>
         </div>
         <div id="faq">
-            <p class="bolded faqtitle"></p>
-            <p></p>
+            <p class="bolded faqtitle">Frequently Asked Questions</p>
+            <p>Here are some frequently asked questions about Eagler Launcher.</p>
             <div id="faqbox"></div>
-        </div>
         </div>
         <div id="installations"><div id="installationsbox"></div></div>
         <div id="game-bg" style="background-image: url(./assets/images/web-edition.jpg);">
             <img id="game-title" src="./assets/images/web-title.png" alt="eaglercraft">
         </div>
-        <div id='iframebox'></div>
         <div id="patchNotes">
             <div style="padding: 2vh 3vw 7vh;">
                 <p class="bolded patchnotes-title">Versions</p>
@@ -135,4 +129,3 @@
     </div>
     <script src="./js/index.js"></script>
 </body>
-</html>
