@@ -202,40 +202,40 @@ function generatelaunchers(path) {
     })
 };
 
-const faqs = document.getElementById("faqbox");
-function generatefaqs() {
-    fetch("./assets/json/faqs.json").then((response) => response.json()).then((data) => {
-        data.forEach((game) => {
-            const faqoption = document.createElement("div");
-            faqoption.className = "faqoption";
+//const faqs = document.getElementById("faqbox");
+//function generatefaqs() {
+ //   fetch("./assets/json/faqs.json").then((response) => response.json()).then((data) => {
+ //       data.forEach((game) => {
+//            const faqoption = document.createElement("div");
+//            faqoption.className = "faqoption";
+//
+//            const faqquestion = document.createElement("div");
+//            faqquestion.className = "bolded faqtext";
+//            const faqquestionsymbol = document.createElement("p");
+//            faqquestionsymbol.className = "faqsymbol";
+//            faqquestionsymbol.innerHTML = "Q";
+//            const faqquestiontext = document.createElement("p");
+//            faqquestiontext.innerHTML = game.question;
+//
+//            const faqanswer = document.createElement("div");
+//            faqanswer.className = "faqtext";
+ //           const faqanswersymbol = document.createElement("p");
+ //           faqanswersymbol.className = "bolded faqsymbol";
+//            faqanswersymbol.innerHTML = "A";
+//            const faqanswertext = document.createElement("p");
+//            faqanswertext.innerHTML = game.answer;
 
-            const faqquestion = document.createElement("div");
-            faqquestion.className = "bolded faqtext";
-            const faqquestionsymbol = document.createElement("p");
-            faqquestionsymbol.className = "faqsymbol";
-            faqquestionsymbol.innerHTML = "Q";
-            const faqquestiontext = document.createElement("p");
-            faqquestiontext.innerHTML = game.question;
-
-            const faqanswer = document.createElement("div");
-            faqanswer.className = "faqtext";
-            const faqanswersymbol = document.createElement("p");
-            faqanswersymbol.className = "bolded faqsymbol";
-            faqanswersymbol.innerHTML = "A";
-            const faqanswertext = document.createElement("p");
-            faqanswertext.innerHTML = game.answer;
-
-            faqquestion.appendChild(faqquestionsymbol);
-            faqquestion.appendChild(faqquestiontext);
-            faqanswer.appendChild(faqanswersymbol);
-            faqanswer.appendChild(faqanswertext);
-            faqoption.appendChild(faqquestion);
-            faqoption.appendChild(faqanswer);
-            faqs.appendChild(faqoption);
-        }
-        )
-    })
-};
+//            faqquestion.appendChild(faqquestionsymbol);
+//            faqquestion.appendChild(faqquestiontext);
+ //           faqanswer.appendChild(faqanswersymbol);
+//            faqanswer.appendChild(faqanswertext);
+//            faqoption.appendChild(faqquestion);
+//            faqoption.appendChild(faqanswer);
+//            faqs.appendChild(faqoption);
+//        }
+//        )
+//    })
+//};
 
 const notes = document.getElementById("patchnotesbox");
 const notescreen = document.getElementById("notescreen");
@@ -324,10 +324,10 @@ function skinsheader() {
     console.log('i exist');
     resetHeaderSelected();
     playheader()
+    document.getElementById('faq').style.display = "flex";
     document.getElementById('header3').classList.add('selected');
+    document.getElementById('header1').classList.remove('selected');
     img.style.display = 'none';
-    iframebox.innerhtml = `<iframe src="./skineditor" width="84vw" height="84vh" frameborder="0"></iframe>`;
-    iframebox.style.display = 'block';
     }
 
 // Game Edition Selected
