@@ -320,15 +320,13 @@ function closenotescreen() {
 
 const iframebox = document.getElementById('iframebox');
 const img = document.getElementById('game-bg');
-const imgheight = img.offsetHeight
-const imgwidth = img.offsetWidth
 function skinsheader() {
     console.log('i exist');
     resetHeaderSelected();
-    document.getElementById('faq').style.display = "flex";
+    playheader()
     document.getElementById('header3').classList.add('selected');
     img.style.display = 'none';
-    iframebox.innerhtml = `<iframe src="./skineditor" width="${imageWidth}" height="${imageHeight}" frameborder="0"></iframe>`;
+    iframebox.innerhtml = `<iframe src="./skineditor" width="84vw" height="84vh" frameborder="0"></iframe>`;
     iframebox.style.display = 'block';
     }
 
