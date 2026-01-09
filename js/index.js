@@ -203,7 +203,7 @@ function generatelaunchers(path) {
 };
 
 //const faqs = document.getElementById("faqbox");
-//function generatefaqs() {
+function generatefaqs() {
  //   fetch("./assets/json/faqs.json").then((response) => response.json()).then((data) => {
  //       data.forEach((game) => {
 //            const faqoption = document.createElement("div");
@@ -319,15 +319,11 @@ function closenotescreen() {
 }
 
 const iframebox = document.getElementById('iframebox');
-const img = document.getElementById('game-bg');
 function skinsheader() {
     console.log('i exist');
     resetHeaderSelected();
-    playheader()
     document.getElementById('faq').style.display = "flex";
     document.getElementById('header3').classList.add('selected');
-    document.getElementById('header1').classList.remove('selected');
-    img.style.display = 'none';
     }
 
 // Game Edition Selected
