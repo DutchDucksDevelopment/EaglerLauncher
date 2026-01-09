@@ -14,13 +14,14 @@
     {
         "title": "Site Update: Eagler Optimizations",
         "version": "v1.4.2",
-        "description": "Added skin editor, new client and optimized eagler launcher",
+        "description": "Added skin editor, new clients and optimized eagler launcher",
         "date": "January 1st, 2026",
         "icon": "logo.png",
         "type": "site",
         "notes": [
             "Added TheCreationKing's skin editor",
             "Added Kone client",
+            "Added EaglyMC",
             "Made some small optimizations",
             "Changed the logo",
             "Removed herobrine"
