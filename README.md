@@ -8,6 +8,7 @@
 <hr>
 
  ## Versions
+ __v1.5.0__ - Made the executable apps offline<br>
  __v1.4.3__ - Added executable apps for Linux, MacOS and Windows<br>
  __v1.4.2__ - Added TheCreationKing's Skin editor, Added Kone client and optimized code<br>
  __v1.4.1__ - Creation of Eagler launcher, removed a not working version of eaglercraft, renamed some things and added credits<br>
@@ -20,8 +21,8 @@
  <hr>
 
 ## Installation
- Currently just download the repository for the source code!<br>
- Future plans for an offline file may be possible!
+ The easiest way is to just play in your browser<br>
+ But you can download the offline app [here](https://github.com/DutchDucksDevelopment/EaglerLauncher/releases)
 
 <hr>
 
@@ -43,7 +44,7 @@
 - [ ] Add Skins screen
 - [x] Add News screen
 - [ ] Fix display errors
-- [ ] Offline launcher download?
+- [x] Offline launcher download?
 </details>
 
 ## Credits
@@ -54,6 +55,7 @@ irv77:
 Dutch Ducks Development:
 - forked Ampler Launcher into Eagler Launcher
 - removed unstable/not working features
+- added an offline app
 - added these credits! (:
 
 TheCreationKing:
