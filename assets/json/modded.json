@@ -55,4 +55,12 @@
        "link": "./mc/starlikeclient/",
        "active": false
     }
+    {
+       "title": "Tuff Client",
+       "version": "1.12.2-v1.1UT13",
+       "icon": "./assets/images/mc-icons/tuff.png",
+       "link": "./mc/tuffclient/",
+       "active": true
+    }
+ ]
  ]
