@@ -8,7 +8,7 @@
 <hr>
 
  ## Versions
- __v1.5.1__ - Added customizable launcher options, credits, settings, more memory options, and updated code! (made by irv77)
+ __v1.5.1__ - Added customizable launcher options, credits, settings, more memory options, and updated code! (made by irv77)<br>
  __v1.5.0__ - Made the executable apps offline<br>
  __v1.4.3__ - Added executable apps for Linux, MacOS and Windows<br>
  __v1.4.2__ - Added TheCreationKing's Skin editor, Added Kone client and optimized code<br>
