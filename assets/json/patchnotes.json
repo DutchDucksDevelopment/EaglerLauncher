@@ -1,7 +1,22 @@
-[     
+[   {
+        "title": "Site update: Customizable",
+        "version": "v1.5.0",
+        "description": "Added customizable launcher options, credits, settings, more memory options, and updated code! (made by irv77)",
+        "date": "May 14th, 2026",
+        "icon": "sidebar/m-settings.png",
+        "type": "site",
+        "notes": [
+            "Added customizable launcher options, allowing users to create their own name and icon.",
+            "Added credits screen, displaying everybody who has contributed.",
+            "Added the settings screen, allowing users to customize the launcher, and learn info.",
+            "Implemented more memory on choices made inside of the launcher.",
+            "Updated games, fixed bugs, modified css.",
+            "Removed herobrine"
+        ]
+    },
         {
         "title": "App update: Offline app!",
-        "version": "v1.4.3",
+        "version": "v1.5.0",
         "description": "Made the app for EaglerLauncher work offline",
         "date": "May 14th, 2026",
         "icon": "App_Offline.png",
