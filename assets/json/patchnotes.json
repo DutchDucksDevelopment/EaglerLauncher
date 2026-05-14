@@ -1,4 +1,16 @@
-[        
+[     
+        {
+        "title": "App update: Offline app!",
+        "version": "v1.4.3",
+        "description": "Made the app for EaglerLauncher work offline",
+        "date": "May 14th, 2026",
+        "icon": "App_Offline.png",
+        "type": "site",
+        "notes": [
+            "Made the app for EaglerLauncher work offline (except some clients that use iframe, those still need wi-fi)",
+            "Removed herobrine"
+        ]
+    },
     {
         "title": "App update: executable support!",
         "version": "v1.4.3",
@@ -93,7 +105,7 @@
     {
         "title": "Site Update: W.A.S.M.",
         "version": "v1.2.0",
-        "description": "added the Webassembly GC editions of eaglercraft",
+        "description": "added the WebAssembly GC editions of eaglercraft",
         "date": "Tuesday, April 1st, 2025",
         "icon": "mc-icons/grass-wasm.png",
         "type": "site",
