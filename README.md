@@ -32,18 +32,19 @@
 <details>
 <summary>Click here to expand feature list</summary>
 
+
 - [ ] Add the servers screen
 - [x] Add Credits screen
-- [ ] Add Settings screen
+- [x] Add Settings screen
 - [x] Rewrite some of the css and js
 - [x] Organize code, and add comments
-- [ ] Add a customizable launcher selector
+- [x] Add a customizable launcher selector
 - [x] Save last played game
 - [x] Add FAQ screen
 - [x] Add Installations screen
 - [x] Add Mods screen
-- [ ] Add Skins screen
-- [x] Add News screen
+- [x] Add Skins screen
+- [x] Add Patch Notes screen
 - [ ] Fix display errors
 - [x] Offline launcher download?
 </details>
