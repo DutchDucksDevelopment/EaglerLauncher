@@ -1,7 +1,7 @@
 [
     {
        "question": "Will there be a offline download?",
-       "answer": "Possibly once developement is done."
+       "answer": "There is! look in the releases tab"
     },
     {
        "question": "How often are the launcher options updated?",
@@ -13,6 +13,6 @@
     },
     {
        "question": "How do I add my own mod to the modketplace?",
-       "answer": "You can suggest your mod in the discord server and it might be added."
+       "answer": "You can suggest your mod in the discord server of irv77 and it might be added."
     }
 ]
