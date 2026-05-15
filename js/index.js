@@ -23,7 +23,7 @@ if (localStorage.getItem("modslauncher")) {
 if (!localStorage.getItem("launcherpresets")) {
     localStorage.setItem("customlaunchers", "[]");
     localStorage.setItem("customlaunchersnumber", 0);
-    localStorage.setItem("launcherpresets", true);
+    localStorage.setItem("launcherpresets", false);
     localStorage.setItem("launchnewtab", false);
 };
 let customlaunchersnumber = localStorage.getItem("customlaunchersnumber").padStart(2, "0");
@@ -862,7 +862,10 @@ const presetscheckbox = document.getElementById("launcherpresets");
 if (localStorage.getItem("launcherpresets")) {
     if (localStorage.getItem("launcherpresets") == 'true') {
         presetscheckbox.checked = true;
-    };
+    }
+    else if (localStorage.getItem("launcherpresets") == 'false') {
+        presetscheckbox.checked = false;
+    }
     if (localStorage.getItem("launchnewtab") == 'true') {
         newtabcheckbox.checked = true;
         document.getElementById('playbutton').target = "_blank"};
