@@ -767,6 +767,9 @@ function installationheader(){
     document.getElementById('installations').style.display = "flex";
     document.getElementById('header4').classList.add('selected');
 }
+function skinsheader(){
+    window.open('../skineditor', '_blank');
+}
 function patchnotesheader(){
     resetHeaderSelected();
     generatenotes();
