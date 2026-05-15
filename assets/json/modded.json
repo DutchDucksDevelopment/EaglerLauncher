@@ -28,13 +28,6 @@
        "active": false
     },
     {
-       "title": "EaglyMC WASM",
-       "version": "1.20-u7",
-       "icon": "./assets/images/icons/eaglymc-wasm.png",
-       "link": "./mc/EaglyMC-wasm",
-       "active": false
-    },
-    {
        "title": "Resent Client",
        "version": "1.8.8-v4.0.p4",
        "icon": "./assets/images/icons/resent-client.png",
