@@ -8,6 +8,7 @@
 <hr>
 
  ## Versions
+ __v1.5.2__ - Added way more clients and some new modpacks to the launcher and updated some clients<br>
  __v1.5.1__ - Added customizable launcher options, credits, settings, more memory options, and updated code! (made by irv77)<br>
  __v1.5.0__ - Made the executable apps offline<br>
  __v1.4.3__ - Added executable apps for Linux, MacOS and Windows<br>
@@ -58,6 +59,7 @@ Dutch Ducks Development:
 - forked Ampler Launcher into Eagler Launcher
 - removed unstable/not working features
 - added an offline app
+- added many new clients and modpacks into the launcher
 - added these credits! (:
 
 TheCreationKing:

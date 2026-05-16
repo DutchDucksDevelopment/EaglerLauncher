@@ -1,4 +1,19 @@
-[   
+[      
+	{
+        "title": "Site update: More versions",
+        "version": "v1.5.2",
+        "description": "Added way more clients and some new modpacks to the launcher!",
+        "date": "May 16th, 2026",
+        "icon": "mc-icons/command_block.png",
+        "type": "site",
+        "notes": [
+            "Added 4 versions of Pixel Client",
+            "Added the WASM versions of some clients",
+            "Updated some clients",
+            "Added 7 new modpacks and their WASM versions",
+            "Removed herobrine"
+        ]
+   },
    {
         "title": "Site update: Customizable",
         "version": "v1.5.1",
