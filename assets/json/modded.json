@@ -8,7 +8,7 @@
     },
     {
        "title": "Astra Client",
-       "version": "1.8.8-v1.5",
+       "version": "1.8.8-v1.6",
        "icon": "./assets/images/icons/astra-client.png",
        "link": "./mc/astraclient/",
        "active": false
