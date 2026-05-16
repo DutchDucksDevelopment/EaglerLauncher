@@ -4,7 +4,7 @@
         "version": "v1.5.2",
         "description": "Added way more clients and some new modpacks to the launcher!",
         "date": "May 16th, 2026",
-        "icon": "mc-icons/command_block.png",
+        "icon": "mc-icons/command-block.png",
         "type": "site",
         "notes": [
             "Added 4 versions of Pixel Client",

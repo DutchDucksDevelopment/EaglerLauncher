@@ -105,6 +105,13 @@
        "active": false
     },
     {
+       "title": "DragonXLite",
+       "version": "1.8.8",
+       "icon": "./assets/images/mc-icons/dragon-head.png",
+       "link": "./mc/dragonxlite/",
+       "active": false
+    },
+    {
        "title": "Explore Modpack",
        "version": "1.6.4",
        "icon": "./assets/images/mc-icons/command-block.png",
@@ -116,13 +123,6 @@
        "version": "1.6.4-WASM",
        "icon": "./assets/images/mc-icons/command-block-wasm.png",
        "link": "./mc/modpacks/explore-wasm",
-       "active": false
-    },
-    {
-       "title": "DragonXLite",
-       "version": "1.8.8",
-       "icon": "./assets/images/mc-icons/dragon-head.png",
-       "link": "./mc/dragonxlite/",
        "active": false
     },
     {
