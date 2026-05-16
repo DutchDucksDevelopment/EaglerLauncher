@@ -14,6 +14,13 @@
        "active": false
     },
     {
+       "title": "Astra Client WASM",
+       "version": "1.8.8-v1.6-wasm",
+       "icon": "./assets/images/icons/astra-client-wasm.png",
+       "link": "./mc/astraclient-wasm/",
+       "active": false
+    },
+    {
        "title": "Kone Client",
        "version": "1.8.8",
        "icon": "./assets/images/icons/kone.png",
@@ -29,14 +36,14 @@
     },
     {
        "title": "Resent Client",
-       "version": "1.8.8-v4.0.p5.1",
+       "version": "1.8.8-v5.1",
        "icon": "./assets/images/icons/resent-client.png",
        "link": "./mc/resentclient/",
        "active": false
     },
     {
        "title": "Resent Client WASM",
-       "version": "1.8.8-v4.0.p5-wasm",
+       "version": "1.8.8-v5.0-wasm",
        "icon": "./assets/images/icons/resent-client-wasm.png",
        "link": "./mc/resentclient-wasm/",
        "active": false
@@ -49,10 +56,38 @@
        "active": false
     },
     {
-       "title": "Starlike",
+       "title": "Starlike Client",
        "version": "1.8.8-v0.4.2",
        "icon": "./assets/images/icons/starlike.png",
        "link": "./mc/starlikeclient/",
+       "active": false
+    },
+    {
+       "title": "Pixel Client",
+       "version": "1.8.8-v3.0.0",
+       "icon": "./assets/images/icons/pixelclient.png",
+       "link": "./mc/pixelclient-1.8.8/",
+       "active": false
+    },
+    {
+       "title": "Pixel Client WASM",
+       "version": "1.8.8-v3.0.0-wasm",
+       "icon": "./assets/images/icons/pixelclient-wasm.png",
+       "link": "./mc/pixelclient-1.8.8-wasm/",
+       "active": false
+    },
+    {
+       "title": "Pixel Client",
+       "version": "1.12.2-v3.0.0",
+       "icon": "./assets/images/icons/pixelclient.png",
+       "link": "./mc/pixelclient-1.12.2/",
+       "active": false
+    },
+    {
+       "title": "Pixel Client WASM",
+       "version": "1.12.2-v3.0.0-wasm",
+       "icon": "./assets/images/icons/pixelclient-wasm.png",
+       "link": "./mc/pixelclient-1.12.2-wasm/",
        "active": false
     },
     {
