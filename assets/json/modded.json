@@ -29,9 +29,16 @@
     },
     {
        "title": "Resent Client",
-       "version": "1.8.8-v4.0.p4",
+       "version": "1.8.8-v4.0.p5.1",
        "icon": "./assets/images/icons/resent-client.png",
        "link": "./mc/resentclient/",
+       "active": false
+    },
+    {
+       "title": "Resent Client WASM",
+       "version": "1.8.8-v4.0.p5-wasm",
+       "icon": "./assets/images/icons/resent-client-wasm.png",
+       "link": "./mc/resentclient-wasm/",
        "active": false
     },
     {
